@@ -1,0 +1,7 @@
+{
+    "content": "main content as HTML",
+    "featuredImage": "url of image if any",
+    "isPublished": "true",
+    "title": "upload test 1",
+    "userId": "user that created it"
+}

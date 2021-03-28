@@ -1,0 +1,15 @@
+{
+"signup":
+        {
+        "firstName": "John",
+        "lastName": "Doe",
+        "email": "user1@email.com",
+        "password": "123456",
+        "confirmPassword": "123456"
+        },
+"login": 
+        {
+        "email": "user1@email.com",
+        "password": "123456"
+        }
+}

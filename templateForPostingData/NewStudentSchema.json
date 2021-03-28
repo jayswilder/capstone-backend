@@ -1,0 +1,8 @@
+{
+    "firstName": "John",
+    "lastName": "Doe",
+    "phoneNumber": "5121234567",
+    "email": "user1@email.com",
+    "classEnrolled": "UI/UX Bootcamp",
+    "enrollmentStatus": "Pending"
+}
